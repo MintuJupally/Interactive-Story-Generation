@@ -21,5 +21,7 @@ This [link](https://colab.research.google.com/drive/1VGTCFM8lKyqXBSKERLP2Wc2EZ-o
 3. 150 stories generator by self-feeding lines to the model
 
 ### Compare models - using Entity based Local Coherence 
-Code available at [here](https://colab.research.google.com/drive/1WfqzvOFkN-pW3ax62AZXO9yxt1Gbu4qZ?usp=sharing)
+Code for coherence computation and model comparison available [here](https://colab.research.google.com/drive/1WfqzvOFkN-pW3ax62AZXO9yxt1Gbu4qZ?usp=sharing)
 
+### Web application
+Web app client code available [here](https://github.com/MintuJupally/ISG-web/)
