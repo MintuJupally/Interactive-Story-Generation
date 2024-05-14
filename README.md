@@ -8,6 +8,9 @@ The files in the repo contain:
 ### For unsloth models finetuning:
 Sample code can be found [here](https://colab.research.google.com/drive/167cf_6sv9qtc_1PHDKD01JxnCZrqSqtV?usp=sharing)
 
+### Finetuned models:
+Finetuned models (and dataset) can be found at [Hugging Face](https://huggingface.co/collections/mintujupally/interactive-story-generation-66328ee530fcf1ce990bc0a8)
+
 ### Sample stories:
 Sample stories from finetuned models can be found [here](https://docs.google.com/document/d/1SnR4dg7VcQhnvEVm_MkLeHT3SnLvtp89LAehfVeFPos/edit?usp=sharing)
 
