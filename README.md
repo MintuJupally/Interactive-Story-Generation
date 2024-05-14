@@ -1,7 +1,9 @@
 # Interactive Story Generation
 
 The work in this project has been done by me as my M.Tech Project from IIT Bhubaneswar.
+
 Author: [Sai Krishna Jupally](https://mintu.dev)
+
 
 The files in the repo contain:
 1. Dataset files
