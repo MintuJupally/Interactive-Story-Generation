@@ -19,3 +19,7 @@ This [link](https://colab.research.google.com/drive/1VGTCFM8lKyqXBSKERLP2Wc2EZ-o
 1. Loading models for inference
 2. Interactive Story Generation
 3. 150 stories generator by self-feeding lines to the model
+
+### Compare models - using Entity based Local Coherence 
+Code available at [here](https://colab.research.google.com/drive/1WfqzvOFkN-pW3ax62AZXO9yxt1Gbu4qZ?usp=sharing)
+
