@@ -1,0 +1,2 @@
+- The `test_uf.txt` and `train_uf.txt` are the relevant unformatted dataset files.
+- Each line contains one story
